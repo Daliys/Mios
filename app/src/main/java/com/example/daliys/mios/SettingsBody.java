@@ -114,6 +114,7 @@ public class SettingsBody extends Activity{
         image118.setImageResource(R.drawable.n118);
         image119.setImageResource(R.drawable.n119);
         image120.setImageResource(R.drawable.n120);
+
     }
 
 
